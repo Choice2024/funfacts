@@ -1,138 +1,35 @@
 {
   "facts": [
-    {
-      "title": "Cradle of Humankind",
-      "description": "Africa is widely regarded as the birthplace of humanity, with the oldest known human fossils discovered in Ethiopia, dating back approximately 195,000 years.",
-      "source": "BLACKHISTORYSTUDIES.COM"
-    },
-    {
-      "title": "Second Largest Continent",
-      "description": "Covering over 30 million square kilometers, Africa is the second-largest continent, surpassing the combined size of China, India, the continental United States, and most of Europe.",
-      "source": "THEDIASPORACOLLECTIVE.COM"
-    },
-    {
-      "title": "54 Countries",
-      "description": "Africa comprises 54 recognized sovereign nations, each with its unique culture and history.",
-      "source": "THEDIASPORACOLLECTIVE.COM"
-    },
-    {
-      "title": "Diverse Languages",
-      "description": "The continent is home to over 2,000 languages, accounting for more than 25% of the world's languages. Nigeria alone has over 500 living languages.",
-      "source": "WEFORUM.ORG"
-    },
-    {
-      "title": "Largest Desert",
-      "description": "The Sahara Desert in Northern Africa is the world's largest hot desert, spanning approximately 9.2 million square kilometers.",
-      "source": "FUNKIDSLIVE.COM"
-    },
-    {
-      "title": "Longest River",
-      "description": "The Nile River, stretching over 4,100 miles, is the longest river globally, flowing northward through northeastern Africa into the Mediterranean Sea.",
-      "source": "CONVOYOFHOPE.ORG"
-    },
-    {
-      "title": "Rich Biodiversity",
-      "description": "Africa hosts the largest number of megafauna species, including elephants, rhinos, hippos, and giraffes.",
-      "source": "CONVOYOFHOPE.ORG"
-    },
-    {
-      "title": "Great Migration",
-      "description": "The annual migration of over 1.5 million wildebeest and hundreds of thousands of other animals across the Serengeti-Mara ecosystem is one of the most spectacular wildlife events on Earth."
-    },
-    {
-      "title": "Victoria Falls",
-      "description": "Located on the border between Zambia and Zimbabwe, Victoria Falls is one of the largest and most famous waterfalls globally, known locally as \"Mosi-oa-Tunya\" or \"The Smoke That Thunders.\""
-    },
-    {
-      "title": "Mount Kilimanjaro",
-      "description": "Tanzania's Mount Kilimanjaro is Africa's highest peak, standing at 5,895 meters (19,341 feet)."
-    },
-    {
-      "title": "Madagascar's Unique Wildlife",
-      "description": "Approximately 90% of the wildlife in Madagascar is found nowhere else on Earth, including lemurs and numerous plant species."
-    },
-    {
-      "title": "Ancient Civilizations",
-      "description": "Africa was home to some of the world's oldest civilizations, including Ancient Egypt and Carthage."
-    },
-    {
-      "title": "Rich Mineral Resources",
-      "description": "The continent holds around 30% of the Earth's remaining mineral resources, including over 40% of gold reserves and 90% of platinum reserves.",
-      "source": "WEFORUM.ORG"
-    },
-    {
-      "title": "Lake Victoria",
-      "description": "Africa's largest lake by area, Lake Victoria, is also the world's largest tropical lake and the second-largest freshwater lake by surface area."
-    },
-    {
-      "title": "Seychelles",
-      "description": "The smallest country in Africa, Seychelles, is an archipelago of 115 islands in the Indian Ocean."
-    },
-    {
-      "title": "Lagos",
-      "description": "Nigeria's Lagos is the largest city in Africa, with a population exceeding 30 million inhabitants, making it one of the world's fastest-growing cities.",
-      "source": "KIDS-WORLD-TRAVEL-GUIDE.COM"
-    },
-    {
-      "title": "Namib Desert",
-      "description": "Namibia's Namib Desert is considered the oldest desert in the world.",
-      "source": "CONVOYOFHOPE.ORG"
-    },
-    {
-      "title": "African Union",
-      "description": "Established in 2002, the African Union (AU) is a continental union consisting of 55 member states, aiming to promote unity and development across Africa."
-    },
-    {
-      "title": "Great Rift Valley",
-      "description": "This continuous geographic trench runs from Lebanon's Beqaa Valley in Asia to Mozambique in Southeastern Africa, spanning approximately 6,000 kilometers."
-    },
-    {
-      "title": "Ethiopian Calendar",
-      "description": "Ethiopia uses a unique calendar that is approximately seven to eight years behind the Gregorian calendar, consisting of 13 months."
-    },
-    {
-      "title": "Coffee Origin",
-      "description": "Coffee is believed to have originated in Ethiopia, where legend says a goat herder discovered the energizing effects of coffee beans."
-    },
-    {
-      "title": "Oldest University",
-      "description": "The University of al-Qarawiyyin in Fez, Morocco, founded in 859 AD, is considered the world's oldest continuously operating degree-granting university."
-    },
-    {
-      "title": "Algeria's Size",
-      "description": "Algeria is the largest country in Africa by land area, covering approximately 2.38 million square kilometers."
-    },
-    {
-      "title": "Nigerian Film Industry",
-      "description": "Known as Nollywood, Nigeria's film industry is one of the largest globally, producing thousands of films annually."
-    },
-    {
-      "title": "Botswana's Diamonds",
-      "description": "Botswana is one of the world's leading producers of diamonds, contributing significantly to its economy."
-    },
-    {
-      "title": "Island Nations",
-      "description": "Africa includes several island nations, such as Madagascar, Seychelles, Comoros, Cape Verde, and São Tomé and Príncipe."
-    },
-    {
-      "title": "Kalahari Desert",
-      "description": "Spanning Botswana, Namibia, and South Africa, the Kalahari Desert is known for its red sands and diverse wildlife."
-    },
-    {
-      "title": "Ghana's Independence",
-      "description": "In 1957, Ghana became the first African country to gain independence from colonial rule."
-    },
-    {
-      "title": "Blue Nile Falls",
-      "description": "Known as \"Tis Issat\" or \"Smoking Water,\" these falls are a significant landmark on the Blue Nile River in Ethiopia."
-    },
-    {
-      "title": "Zanzibar's Spice Islands",
-      "description": "Zanzibar, part of Tanzania, is renowned for its spice production, particularly cloves, earning it the nickname \"Spice Islands.\""
-    },
-    {
-      "title": "Nile Crocodiles",
-      "description": "One of the largest crocodile species, Nile crocodiles are native to freshwater habitats in Africa."
-    }
+    "Africa is widely regarded as the birthplace of humanity, with the oldest known human fossils discovered in Ethiopia, dating back approximately 195,000 years. (BLACKHISTORYSTUDIES.COM)",
+    "Covering over 30 million square kilometers, Africa is the second-largest continent, surpassing the combined size of China, India, the continental United States, and most of Europe. (THEDIASPORACOLLECTIVE.COM)",
+    "Africa comprises 54 recognized sovereign nations, each with its unique culture and history. (THEDIASPORACOLLECTIVE.COM)",
+    "The continent is home to over 2,000 languages, accounting for more than 25% of the world's languages. Nigeria alone has over 500 living languages. (WEFORUM.ORG)",
+    "The Sahara Desert in Northern Africa is the world's largest hot desert, spanning approximately 9.2 million square kilometers. (FUNKIDSLIVE.COM)",
+    "The Nile River, stretching over 4,100 miles, is the longest river globally, flowing northward through northeastern Africa into the Mediterranean Sea. (CONVOYOFHOPE.ORG)",
+    "Africa hosts the largest number of megafauna species, including elephants, rhinos, hippos, and giraffes. (CONVOYOFHOPE.ORG)",
+    "The annual migration of over 1.5 million wildebeest and hundreds of thousands of other animals across the Serengeti-Mara ecosystem is one of the most spectacular wildlife events on Earth.",
+    "Located on the border between Zambia and Zimbabwe, Victoria Falls is one of the largest and most famous waterfalls globally, known locally as \"Mosi-oa-Tunya\" or \"The Smoke That Thunders.\"",
+    "Tanzania's Mount Kilimanjaro is Africa's highest peak, standing at 5,895 meters (19,341 feet).",
+    "Approximately 90% of the wildlife in Madagascar is found nowhere else on Earth, including lemurs and numerous plant species.",
+    "Africa was home to some of the world's oldest civilizations, including Ancient Egypt and Carthage.",
+    "The continent holds around 30% of the Earth's remaining mineral resources, including over 40% of gold reserves and 90% of platinum reserves. (WEFORUM.ORG)",
+    "Africa's largest lake by area, Lake Victoria, is also the world's largest tropical lake and the second-largest freshwater lake by surface area.",
+    "The smallest country in Africa, Seychelles, is an archipelago of 115 islands in the Indian Ocean.",
+    "Nigeria's Lagos is the largest city in Africa, with a population exceeding 30 million inhabitants, making it one of the world's fastest-growing cities. (KIDS-WORLD-TRAVEL-GUIDE.COM)",
+    "Namibia's Namib Desert is considered the oldest desert in the world. (CONVOYOFHOPE.ORG)",
+    "Established in 2002, the African Union (AU) is a continental union consisting of 55 member states, aiming to promote unity and development across Africa.",
+    "This continuous geographic trench runs from Lebanon's Beqaa Valley in Asia to Mozambique in Southeastern Africa, spanning approximately 6,000 kilometers.",
+    "Ethiopia uses a unique calendar that is approximately seven to eight years behind the Gregorian calendar, consisting of 13 months.",
+    "Coffee is believed to have originated in Ethiopia, where legend says a goat herder discovered the energizing effects of coffee beans.",
+    "The University of al-Qarawiyyin in Fez, Morocco, founded in 859 AD, is considered the world's oldest continuously operating degree-granting university.",
+    "Algeria is the largest country in Africa by land area, covering approximately 2.38 million square kilometers.",
+    "Known as Nollywood, Nigeria's film industry is one of the largest globally, producing thousands of films annually.",
+    "Botswana is one of the world's leading producers of diamonds, contributing significantly to its economy.",
+    "Africa includes several island nations, such as Madagascar, Seychelles, Comoros, Cape Verde, and São Tomé and Príncipe.",
+    "Spanning Botswana, Namibia, and South Africa, the Kalahari Desert is known for its red sands and diverse wildlife.",
+    "In 1957, Ghana became the first African country to gain independence from colonial rule.",
+    "Known as \"Tis Issat\" or \"Smoking Water,\" these falls are a significant landmark on the Blue Nile River in Ethiopia.",
+    "Zanzibar, part of Tanzania, is renowned for its spice production, particularly cloves, earning it the nickname \"Spice Islands.\"",
+    "One of the largest crocodile species, Nile crocodiles are native to freshwater habitats in Africa."
   ]
 }
